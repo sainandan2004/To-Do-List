@@ -44,6 +44,7 @@ A simple, clean, and responsive todo application built with React and Vite. This
    ```
 
 4. Open your browser and navigate to `http://localhost:....`
+   Note: Check your terminal output for the exact URL.
 
 ## Available Scripts
 
