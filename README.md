@@ -51,21 +51,6 @@ A simple, clean, and responsive todo application built with React and Vite. This
 
 - `npm run dev` - Start the development server
 
-## Project Structure
-
-```
-todo-app/
-├── public/
-├── src/
-│   ├── App.jsx          # Main application component
-│   ├── App.css          # Application-specific styles
-│   ├── index.css        # Global styles and reset
-│   └── main.jsx         # Application entry point
-├── index.html           # HTML template
-├── package.json         # Project dependencies and scripts
-├── vite.config.js       # Vite configuration
-└── README.md           # Project documentation
-```
 
 ## Usage
 
