@@ -29,7 +29,7 @@ A simple, clean, and responsive todo application built with React and Vite. This
 
 1. Clone the repository:
    ```bash
-   git clone link
+   git clone https://github.com/sainandan2004/To-Do-List.git
    cd todo-app
    ```
 
