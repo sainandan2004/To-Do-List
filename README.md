@@ -10,7 +10,6 @@ A simple, clean, and responsive todo application built with React and Vite. This
 - ✅ **Task Statistics** - View total and completed task counts
 - ✅ **Responsive Design** - Works seamlessly on desktop, tablet, and mobile devices
 - ✅ **Clean UI** - Simple and modern interface with smooth animations
-- ✅ **Session-based** - Tasks reset on page refresh (no persistence)
 
 ## Technologies Used
 
